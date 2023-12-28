@@ -1,0 +1,7 @@
+C:\CharpProject\CheckEmail\CheckEmail\bin\Debug\CheckEmail.exe.config
+C:\CharpProject\CheckEmail\CheckEmail\bin\Debug\CheckEmail.exe
+C:\CharpProject\CheckEmail\CheckEmail\bin\Debug\CheckEmail.pdb
+C:\CharpProject\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csproj.AssemblyReference.cache
+C:\CharpProject\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csproj.CoreCompileInputs.cache
+C:\CharpProject\CheckEmail\CheckEmail\obj\Debug\CheckEmail.exe
+C:\CharpProject\CheckEmail\CheckEmail\obj\Debug\CheckEmail.pdb
